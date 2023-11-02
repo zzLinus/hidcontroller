@@ -3,7 +3,7 @@ The Raylib C++ Starter kit is a template project that provides a simple starter 
 
 > Why static linking?
 
-One of the most absurdly annoying things about C++ development is finding and linking dynamic libraries. The raylib project prides itself on having **"NO external dependencies"**, and we tend to agree that portability is way cooler than saving that fraction of a second on compile-time.
+One of the most absurdly annoying things about C++ development is finding and linking dynamic libraries. The **raylib** project prides itself on having **"NO external dependencies"**, and we tend to agree that portability is way cooler than saving that fraction of a second on compile-time.
 
 > Why not just use CMake?
 
